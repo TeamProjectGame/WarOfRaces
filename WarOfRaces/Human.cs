@@ -8,6 +8,6 @@ namespace WarOfRaces
 {
     class Human
     {
-        int a = 5;
+        int a = 7;
     }
 }
