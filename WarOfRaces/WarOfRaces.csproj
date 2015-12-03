@@ -45,6 +45,7 @@
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\IBlock.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
+    <Compile Include="Orc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
