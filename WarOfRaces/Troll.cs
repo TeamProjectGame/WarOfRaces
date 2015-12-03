@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WarOfRaces
 {
-    class Troll
+    public class Troll
     {
     }
 }
