@@ -10,6 +10,6 @@ namespace WarOfRaces
     public class Troll
     {
         string promqna = "  ";
-        string promqn1 = "  ";
+
     }
 }
